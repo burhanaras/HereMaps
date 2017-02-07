@@ -1,0 +1,127 @@
+[
+    {
+        "outputFile": "C:\\Users\\BURHAN\\Downloads\\HERE-sdk\\HERE-sdk\\tutorial\\BasicMapSolution\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\BURHAN\\Downloads\\HERE-sdk\\HERE-sdk\\tutorial\\BasicMapSolution\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 517
+                },
+                "from": {
+                    "file": "C:\\Users\\BURHAN\\Downloads\\HERE-sdk\\HERE-sdk\\tutorial\\BasicMapSolution\\app\\src\\main\\res\\values-w820dp\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 54,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 522,
+                    "endColumn": 89,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "C:\\Users\\BURHAN\\Downloads\\HERE-sdk\\HERE-sdk\\tutorial\\BasicMapSolution\\app\\src\\main\\res\\values-w820dp\\styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 464,
+                        "endColumn": 90,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 79,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Users\\BURHAN\\Downloads\\HERE-sdk\\HERE-sdk\\tutorial\\BasicMapSolution\\app\\src\\main\\res\\values-w820dp\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 80,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1162
+                },
+                "from": {
+                    "file": "C:\\Users\\BURHAN\\Downloads\\HERE-sdk\\HERE-sdk\\tutorial\\BasicMapSolution\\app\\src\\main\\res\\values-w820dp\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1167,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1360
+                },
+                "from": {
+                    "file": "C:\\Users\\BURHAN\\Downloads\\HERE-sdk\\HERE-sdk\\tutorial\\BasicMapSolution\\app\\src\\main\\res\\values-w820dp\\styles.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1114,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1307
+                    }
+                }
+            }
+        ]
+    }
+]

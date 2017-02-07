@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/category_item_width"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:showIn="@layout/nearby_places_dialog">
+
+    <ImageButton
+        android:id="@+id/ibtn_category_shopping"
+        android:layout_width="@dimen/category_button_dimen"
+        android:layout_height="@dimen/category_button_dimen"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/button_nearby_category_dialog"
+        android:src="@mipmap/maplings_category_shopping" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shopping"
+        android:gravity="center"
+        android:textColor="@android:color/white" />
+</LinearLayout>

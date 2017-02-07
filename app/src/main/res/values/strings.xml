@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_id">NqQEkJpnU4b7nHuPQYR7</string>
+    <string name="app_token">hR5N_Eziri2D9j4Xdojjsg</string>
+    <string name="app_name">HERE Maps</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="nearby">Nearby</string>
+    <string name="eat_drink"><![CDATA[Eat & Drink]]></string>
+    <string name="sight_attractions"><![CDATA[Sight &\nAttractions]]></string>
+    <string name="getting_around"><![CDATA[Getting\nAround]]></string>
+    <string name="fuel_parking"><![CDATA[Fuel &\nParking]]></string>
+    <string name="events_entertainment"><![CDATA[Events &\nEntertainment]]></string>
+    <string name="banks"><![CDATA[Banks & ATMs]]></string>
+    <string name="health"><![CDATA[Health]]></string>
+    <string name="shopping"><![CDATA[Shopping]]></string>
+    <string name="hotels"><![CDATA[Hotels]]></string>
+    <string name="runtime_permissions_txt">Please enable GPS permissions from app settings.</string>
+    <string name="open_gps_message">Your GPS seems to be disabled, do you want to enable it?</string>
+    <string name="developer">BURHAN ARAS</string>
+    <string name="powered_by">powered by</string>
+    <string name="navigate_me">NAVIGATE ME</string>
+    <string name="not_implemented_yet">Navigation isn\'t implemented yet.</string>
+</resources>

@@ -1,0 +1,9 @@
+#Internal package file, do not edit.
+#Tue Feb 07 10:41:54 EET 2017
+1.file=C\:\\Users\\BURHAN\\Downloads\\HERE-sdk\\HERE-sdk\\tutorial\\BasicMapSolution\\app\\build\\intermediates\\transforms\\dex\\androidTest\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.set=DEX
+0.file=C\:\\Users\\BURHAN\\Downloads\\HERE-sdk\\HERE-sdk\\tutorial\\BasicMapSolution\\app\\build\\intermediates\\res\\resources-debug-androidTest.ap_\\AndroidManifest.xml
+1.base=C\:\\Users\\BURHAN\\Downloads\\HERE-sdk\\HERE-sdk\\tutorial\\BasicMapSolution\\app\\build\\intermediates\\transforms\\dex\\androidTest\\debug\\folders\\1000\\1f\\main
+0.base=C\:\\Users\\BURHAN\\Downloads\\HERE-sdk\\HERE-sdk\\tutorial\\BasicMapSolution\\app\\build\\intermediates\\res\\resources-debug-androidTest.ap_
+0.set=ANDROID_RESOURCE
+count=2
